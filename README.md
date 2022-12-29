@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+[![sunjein's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjein
+)](https://github.com/sunjein/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunjein&layout=compact" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sunjein)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **sunjein/sunjein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
